@@ -22,14 +22,21 @@ A single line containing all elements of the array, separeted by a single space.
 
 # Output
 
+
 The output is shown to the console.
 
+
 If there are not such arrays:
+
   false
   
+  
 If there are such arrays:
+
   First array with length *len(B)* total sum *sum(B)* and average *sum(B)/len(B)*
+  
   Second array with length *len(C)* total sum *sum(C)* and average *sum(C)/len(C)*
+  
   true
   
 
