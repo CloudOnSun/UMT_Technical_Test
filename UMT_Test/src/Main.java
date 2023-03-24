@@ -90,7 +90,7 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        System.out.println(sameAverageArrays(readFromFile("src/input.txt")));
+        System.out.println(sameAverageArrays(readFromFile("UMT_Test/src/input.txt")));
 
     }
 }
