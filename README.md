@@ -28,16 +28,16 @@ The output is shown to the console.
 
 If there are not such arrays:
 
-&emsp false
+> false
   
   
 If there are such arrays:
 
-&emsp First array with length *len(B)* total sum *sum(B)* and average *sum(B)/len(B)*
+> First array with length *len(B)* total sum *sum(B)* and average *sum(B)/len(B)*
   
-&emsp Second array with length *len(C)* total sum *sum(C)* and average *sum(C)/len(C)*
+> Second array with length *len(C)* total sum *sum(C)* and average *sum(C)/len(C)*
   
-&emsp true
+> true
   
 
 
